@@ -1,1 +1,1 @@
-# CSE222-Data-Sturctures-and-Algorithm-Projects
+# CSE222-Data-Structures-and-Algorithm-Projects
